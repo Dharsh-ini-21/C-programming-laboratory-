@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+    int x,pyr;
+    scanf("%d",&x);
+    pyr=3*x*(x+1)/2;
+    printf("%d",pyr);
+    return 0;
+}
+
+
+
+
